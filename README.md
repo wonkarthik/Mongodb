@@ -1,2 +1,5 @@
-# Mongodb
-Mongodb Tutorial
+# Python Notes
+
+```
+Begineers Python Tutorial 
+```
